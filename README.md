@@ -11,7 +11,7 @@
 - Open Termux and run
     `pkg i -y git && git clone https://github.com/T-vK/Termux-DeepSpeech.git && cd ./Termux-DeepSpeech && ./speech2text`
 
-This will take a while beacuse it needs to download a pre-trained DeepSpeech model and a DeepSpeech release. It will probably also ask for microphone permissions (which are required for obvious reasons).
+This will take a while because it needs to download a pre-trained DeepSpeech model and a DeepSpeech release. It will probably also ask for microphone permissions (which are required for obvious reasons).
 
 ## Usage
 If the installation was successful, you should now be able to use command `speech2text`.
